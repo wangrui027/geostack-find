@@ -2,10 +2,10 @@
 
 实现从指定路径指定扩展名的文件中搜索指定文本片段
 
-下载[geostack-find.jar](jar/geostack-find.jar)，`java -jar`命令执行即可
+下载[find.jar](jar/find.jar)，`java -jar`命令执行即可
 
 ```
-java -jar geostack-find.jar
+java -jar find.jar
 ```
 
 System.out.println("本jar包实现从指定路径指定扩展名的文件中搜索指定文本片段");
